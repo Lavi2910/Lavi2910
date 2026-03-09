@@ -1,8 +1,6 @@
 ### Hi there, I'm Almog Lavi 👋
 
 I'm a Computer Science student at The College of Management.
-
-- 🌱 **I’m currently learning:** Algorithms, Operating Systems, Advanced Programming.
 - 📫 **How to reach me:** www.linkedin.com/in/almog-lavi29 or almog.lavi29@gmail.com
 
 ---
