@@ -1,20 +1,39 @@
-### Hi there, I'm Almog Lavi 👋
+# Hi, I'm Almog 👋
 
-I'm a Computer Science student at The College of Management.
-- 📫 **How to reach me:** www.linkedin.com/in/almog-lavi29 or almog.lavi29@gmail.com
+2nd-year CS student @ The College of Management, Israel.  
+I work across the stack — from C++20 engines to shipping solo React products.  
+GPA 86. Open to internship opportunities.
 
 ---
 
-### 🛠️ Languages and Tools
+## 🔧 What I'm Building
 
-<p align="left">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-</p>
+- **[LOB-Core](https://github.com/Lavi2910/LOB_Core)** — C++20 high-frequency order book engine.
+  O(log n) insertions, O(1) cancellations via Lazy Deletion. Price-Time Priority, 
+  partial fills, market sweeps.
+
+- **Soly** — Management & booking app for businesses. Solo developer, end-to-end 
+  in React + TypeScript. Full product cycle: design → logic → ship.
+
+- **[Sagol360](https://github.com/ColmanDevClubORG/Sagol360Management)** — Hospital 
+  management system with the Developers Club. TypeScript, React, GitHub Actions CI.
+
+---
+
+## 🛠 Tech Stack
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/almog-lavi29)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:almog.lavi29@gmail.com)
