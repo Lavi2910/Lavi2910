@@ -6,6 +6,10 @@ GPA 86. Open to internship opportunities.
 
 ---
 
+[![Almog's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lavi2910&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
 ## 🔧 What I'm Building
 
 - **[LOB-Core](https://github.com/Lavi2910/LOB_Core)** — C++20 high-frequency order book engine.
@@ -22,14 +26,17 @@ GPA 86. Open to internship opportunities.
 
 ## 🛠 Tech Stack
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+**Languages & Systems**
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,html,css" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=linux,git,github,cmake" />
 
 ---
 
