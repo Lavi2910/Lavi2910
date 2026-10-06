@@ -1,6 +1,6 @@
 # Hi, I'm Almog 👋
 
-2nd-year CS student @ The College of Management, Israel.  
+3rd-year CS student @ The College of Management, Israel.  
 I work across the stack — from C++ engines to shipping solo React products.  
 GPA 89. Open to internship opportunities.
 
