@@ -16,9 +16,6 @@ GPA 89. Open to internship opportunities.
   O(log n) insertions, O(1) cancellations via Lazy Deletion. Price-Time Priority, 
   partial fills, market sweeps.
 
-- **Soly** — Management & booking app for businesses. Solo developer, end-to-end 
-  in React + TypeScript. Full product cycle: design → logic → ship.
-
 - **[Sagol360](https://github.com/ColmanDevClubORG/Sagol360Management)** — Hospital 
   management system with the Developers Club. TypeScript, React, GitHub Actions CI.
 
